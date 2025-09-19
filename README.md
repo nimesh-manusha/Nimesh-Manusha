@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-manusha&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-manusha" /> </p>
 
-- 🔭 I’m currently working on [Noted — Modern Note-Taking App](https://github.com/NimeshManusha/noted)
+- 🔭 I’m currently working on [Intrusion Detection System]
 
 - 🌱 I’m currently learning **React Native, Next.js, Java, HTML, CSS, Python, C++, C**
 
-- 👯 I’m looking to collaborate on [SmartWeather — Mobile App](https://github.com/NimeshManusha/smartweather)
+- 👯 I’m looking to collaborate on [Market based analysis system]
 
 - 💬 Ask me about **React, Java, Python, HTML, CSS ,C**
 

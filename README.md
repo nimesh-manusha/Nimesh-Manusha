@@ -1,55 +1,112 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nimesh Manusha</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+from+Sri+Lanka;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%AB&center=true&width=500&height=45" />
-</p>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Nimesh Manusha</h1>
+<h3 align="center">🚀 A passionate frontend & backend developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <a href="mailto:nmanusha418.b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nimesh-manusha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/nimesh-manusha?tab=followers">
+    <img src="https://img.shields.io/github/followers/nimesh-manusha?label=Followers&style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/nimesh-manusha?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/nimesh-manusha?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
+  </a>
 </p>
 
----
+<!-- About Me -->
+### About Me
+- 🔭 I’m currently working on: **Intrusion Detection System**
+- 🌱 I’m currently learning: **React Native, Next.js, Java, HTML, CSS, Python, C++, C**
+- 👯 I’m looking to collaborate on: **Market based analysis system**
+- 💬 Ask me about: **React, Java, Python, HTML, CSS, C**
+- 📫 How to reach me: **nmanusha418.b@gmail.com**
+- ⚡ Fun fact: **I think I’m funny 😄 (at least I laugh at my own jokes)**
 
-### 🚀 About Me
+<!-- Quick Links (add your URLs) -->
+<p>
+  <a href="#" target="_blank">🌐 Portfolio</a> •
+  <a href="#" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:nmanusha418.b@gmail.com">📧 Email</a>
+</p>
 
-- 🔭 Working on **Intrusion Detection System**
-- 🌱 Mastering **Next.js & React Native**
-- 👯 Looking to collaborate on **Market Analysis Systems**
-- 🗣️ Ask me about **React, Java, Python, C++**
-- ⚡ I laugh at my own jokes (the best kind of humor!) 😄
+<!-- Tech Stack -->
+### Languages & Tools
+<!-- Languages -->
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+</p>
 
----
+<!-- Frameworks & Runtimes -->
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
+</p>
 
-### 🛠️ Languages & Tools
+<!-- Cloud & DevOps -->
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" />
+</p>
 
+<!-- Databases -->
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
+</p>
+
+<!-- Tools -->
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
+</p>
+
+<!-- GitHub Analytics -->
+### GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,html,css,flutter,java,python,cpp,php,nodejs,mysql,mongodb,firebase,aws,docker,git" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimesh-manusha&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-manusha&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesh-manusha&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=nimesh-manusha&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=nimesh-manusha&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimesh-manusha&theme=tokyonight&row=1&margin-w=6" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nimesh-manusha&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nimesh-manusha&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
+<!-- Featured Projects -->
+### Featured Projects
+| Project | What it does | Tech |
+|---|---|---|
+| Intrusion Detection System | Detects anomalous behaviour and potential intrusions in networks/systems. | Python, ML, Docker |
+| Market-Based Analysis System | Market data analysis with insights and dashboards. | React, Node.js, MongoDB |
 
-### 📢 Let's connect!
+<!-- Contact -->
+### Connect with Me
+- 📧 Email: [nmanusha418.b@gmail.com](mailto:nmanusha418.b@gmail.com)
+- 💼 LinkedIn: add your link above
+- 🌐 Portfolio: add your link above
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:nmanusha418.b@gmail.com"><img src="https://img.shields.io/badge/Email-red.svg?logo=gmail&style=for-the-badge"></a>
-</p>
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/nimesh-manusha/count.svg)
+<!-- Footer -->
+<p align="center">Thanks for visiting! 😊</p>

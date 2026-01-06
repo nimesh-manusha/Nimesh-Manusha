@@ -82,17 +82,6 @@
 </p>
 
 <!-- GitHub Analytics -->
-### GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimesh-manusha&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-manusha&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=nimesh-manusha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimesh-manusha&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
 
 <!-- Featured Projects -->
 ### Featured Projects

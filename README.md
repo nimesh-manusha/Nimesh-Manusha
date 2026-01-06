@@ -23,8 +23,7 @@
 
 <!-- Quick Links (add your URLs) -->
 <p>
-  <a href="#" target="_blank">🌐 Portfolio</a> •
-  <a href="#" target="_blank">💼 LinkedIn</a> •
+  <a href="nimesh-manusha" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:nmanusha418.b@gmail.com">📧 Email</a>
 </p>
 
@@ -105,8 +104,7 @@
 <!-- Contact -->
 ### Connect with Me
 - 📧 Email: [nmanusha418.b@gmail.com](mailto:nmanusha418.b@gmail.com)
-- 💼 LinkedIn: add your link above
-- 🌐 Portfolio: add your link above
+- 💼 LinkedIn: Nimesh Manusha(nimesh-manusha)
 
 <!-- Footer -->
 <p align="center">Thanks for visiting! 😊</p>
